@@ -1,8 +1,16 @@
 # ESP32 RFID Attendance System
-
+ 
 > A smart, automated RFID attendance system built with ESP32, RC522 RFID, OLED display, buzzer, Wi-Fi, Make.com, and Google Sheets.
-
-
+ 
+![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue)
+![Arduino](https://img.shields.io/badge/Arduino-C%2B%2B-00979D)
+![RFID](https://img.shields.io/badge/RFID-RC522-orange)
+![Make](https://img.shields.io/badge/Automation-Make.com-purple)
+![Google Sheets](https://img.shields.io/badge/Database-Google%20Sheets-green)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
+ 
+---
+ 
 ## 📌 Project Overview
 
 The **ESP32 RFID Attendance System** is an IoT-based attendance solution that uses an RFID card or tag to record attendance automatically.
