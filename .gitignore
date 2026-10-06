@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Arduino build files
+*.hex
+*.elf
+*.bin
+*.map
+
+# Arduino / IDE
+.idea/
+.vscode/
+
+# Local secrets
+config.h
+secrets.h
+
+# Build folders
+build/
